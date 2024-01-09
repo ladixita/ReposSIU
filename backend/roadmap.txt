@@ -1,0 +1,11 @@
+1) logica de programacion
+2) javascript / python (fundamentos basicos como variables,tipos de datos, funciones, condicionales, clases)
+3) BD: MongoDB no relacional / PostgreSQL relacional
+4) Backend: Express si escojo javascript / fastAPI si escojo python
+5) frontend: React si quiero encontrar empleo rapido / Angular curva de aprendizaje mas elevada
+6) Qwik
+7) Produccion, servidores CD/CI
+8) Testing: Jest / ViTest / CyPress
+9) AI
+
+leifer.contacto@gmail.com
